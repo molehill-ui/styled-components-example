@@ -1,5 +1,5 @@
 {
   "presets": ["next/babel"],
-  "plugins": [["styled-components", { "ssr": true }], "@molehill-ui"]
+  "plugins": ["@molehill-ui", "babel-plugin-styled-components"]
   
 }
